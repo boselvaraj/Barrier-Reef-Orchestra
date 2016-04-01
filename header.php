@@ -8,7 +8,7 @@
 ?>
 <html>
 <head>
-<title>Tutorial theme</title>
+<title>Barrier Reef Orchestra</title>
 <link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>">
 </head>
 <body>
